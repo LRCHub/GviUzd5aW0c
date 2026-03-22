@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "人",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-22T05:58:44.766413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_人_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「人」と「形」",
+      "artist": "DIMLIM",
+      "has_synced": false,
+      "path": "select/02_「人」と「形」_DIMLIM.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人.情.味",
+      "artist": "黃伊汶",
+      "has_synced": false,
+      "path": "select/03_人.情.味_黃伊汶.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby, Don't Cry (人 的眼)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/04_Baby,_Don't_Cry_(人_的眼)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キ?サ?ラ?人",
+      "artist": "石川セリ",
+      "has_synced": true,
+      "path": "select/05_キ_サ_ラ_人_石川セリ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/06_人_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人��最高の日",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/07_人��最高の日_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "虹を征E��人",
+      "artist": "bump of chicken",
+      "has_synced": true,
+      "path": "select/08_虹を征E��人_bump_of_chicken.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "人",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/09_人_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "人",
+      "artist": "大支; 達賴喇嘛",
+      "has_synced": true,
+      "path": "select/10_人_大支;_達賴喇嘛.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_人_GReeeeN.txt"
+    }
+  ]
+}
